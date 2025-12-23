@@ -54,8 +54,6 @@ While working through this project, some of my major learnings were utilizing fr
 
 In future projects, I plan on building more full-stack applications. This was my first full-stack application that I built, and although I ran into several errors while testing, it was really worth it in the end. I also plan on learning more about APIs and the backend aspects of a full-stack application so that I can ensure that the user can successfully interact with the database.
 
-View my project -> Deployed via: https://productstore-fullstackproject.onrender.com
-
 ## Author
 
 ### Danny Yu
